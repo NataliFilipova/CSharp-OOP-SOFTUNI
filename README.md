@@ -10,4 +10,15 @@
 - CONSTRUCTORS ARE NOT INHERITED!
 ```
 
+- Derived classes can access all public and protected members, internal too.
 
+- Private firelds are inherited, but not visible in subclasses.
+
+```diff
+- Virtual difenes a method that can be overriden.
+```
+public <b> virtual </b> void Eat ()
+{
+  ...
+}
+ - will be overriden by the child 
