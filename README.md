@@ -22,3 +22,11 @@ public <b> virtual </b> void Eat ()
   ...
 }
  - will be overriden by the child 
+
+<b> Sealed Modifier </b> - The sealed modifirer prevents other classes from inheriting from it. 
+- it can be used on a method or a property in a base class
+
+- It enables you to allow classes to derive from your class
+
+- Prevents the overriding of specific virtual methods and
+properties
