@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Inheritance-Exercise.csproj": {}
+    "C:\\Users\\highf\\source\\repos\\Encapsulation\\PersonsInfo\\PersonsInfo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Inheritance-Exercise.csproj": {
+    "C:\\Users\\highf\\source\\repos\\Encapsulation\\PersonsInfo\\PersonsInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Inheritance-Exercise.csproj",
-        "projectName": "Inheritance-Exercise",
-        "projectPath": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Inheritance-Exercise.csproj",
+        "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Encapsulation\\PersonsInfo\\PersonsInfo.csproj",
+        "projectName": "PersonsInfo",
+        "projectPath": "C:\\Users\\highf\\source\\repos\\Encapsulation\\PersonsInfo\\PersonsInfo.csproj",
         "packagesPath": "C:\\Users\\highf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\obj\\",
+        "outputPath": "C:\\Users\\highf\\source\\repos\\Encapsulation\\PersonsInfo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

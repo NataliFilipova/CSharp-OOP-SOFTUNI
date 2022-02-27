@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Person.csproj",
-      "projectName": "Person",
-      "projectPath": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\highf\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
+      "projectName": "Encapsulation",
+      "projectPath": "C:\\Users\\highf\\source\\repos\\Encapsulation\\Encapsulation\\Encapsulation.csproj",
       "packagesPath": "C:\\Users\\highf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\highf\\source\\repos\\Inheritance-Exercise\\Inheritance-Exercise\\obj\\",
+      "outputPath": "C:\\Users\\highf\\source\\repos\\Encapsulation\\Encapsulation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
