@@ -1,4 +1,4 @@
-# CSharp-OOP-SOFTUNI
+# Inheritance
 
 <b>Superclass</b> - Perent class, Base class.
 - The class giving its members to its child class.
@@ -30,3 +30,31 @@ public <b> virtual </b> void Eat ()
 
 - Prevents the overriding of specific virtual methods and
 properties
+
+# Encapsulation
+
+- Process of wrapping code and data together into a single unit
+- Reduces complexity
+
+```diff
+- Internal - accessible to any other class in the same project.
+```
+
+```diff
+- Immutable objects (read-only) - create new memory every time they're modified 
+```
+- String, Tuple
+
+```diff
+- Mutable objects == changeable -  Uses the same memory location
+```
+
+- Stringbuilder, List
+- Private mutable fields are still not encapsulated.
+- You can access the field methods through the getter.
+- You can use IReadOnlyCollection to encapsulate collections.
+
+# Interfaces and Abstraction
+
+1. Achieving Abstraction
+- preserving information, relevant in a given context and forgetting information that is irrelevant in that context.
