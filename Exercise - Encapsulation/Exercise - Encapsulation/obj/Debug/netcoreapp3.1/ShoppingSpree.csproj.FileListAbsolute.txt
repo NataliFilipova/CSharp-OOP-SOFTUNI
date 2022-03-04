@@ -1,0 +1,13 @@
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.exe
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.deps.json
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.json
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\bin\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.AssemblyInfo.cs
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.dll
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.pdb
+C:\Users\highf\source\New folder\CSharp---OOP\Exercise - Encapsulation\Exercise - Encapsulation\obj\Debug\netcoreapp3.1\ShoppingSpree.genruntimeconfig.cache
